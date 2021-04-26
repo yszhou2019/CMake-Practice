@@ -1,0 +1,4 @@
+how to use
+# step 1, in dir build, run `cmake -DCMAKE_INSTALL_PREFIX=/usr ..`
+# step 2, generate binary file, run `make`
+# step 3, install, run `make install`
